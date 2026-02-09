@@ -6,4 +6,5 @@ if (x > 5) {
     alert('true')
 }
 
+alert('test');
 alert('hello world');
