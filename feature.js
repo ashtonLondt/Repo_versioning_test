@@ -5,3 +5,5 @@ if (x > 5) {
 } else {
     alert('true')
 }
+
+alert('hello world');
